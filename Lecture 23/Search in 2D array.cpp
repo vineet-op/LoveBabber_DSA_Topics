@@ -1,3 +1,4 @@
+// Implemented using binary search
 class Solution
 {
 public:
