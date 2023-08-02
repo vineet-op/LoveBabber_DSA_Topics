@@ -12,7 +12,7 @@ int main()
     cin >> number;
     cout << "The  terms are " << t1 << " " << t2 << " ";
 
-    for (int i = 2; i < number; ++i)
+    for (int i = 2; i < number; i++)
     {
         t3 = t1 + t2;
         cout << t3 << " ";
